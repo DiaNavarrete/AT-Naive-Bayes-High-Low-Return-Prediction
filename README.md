@@ -1,1 +1,1 @@
-# AT-Naive-Bayes-High-Low-Return-Prediction
+# Algorithmic Trading based in Naive Bayes Low Return Prediction algorithm
